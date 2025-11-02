@@ -33,6 +33,9 @@ npm run build
 
 Output klasörü: `build`
 
+Şablonu canlı olarak görüntülemek için:  
+[https://reactportfolioapp004.vercel.app](https://reactportfolioapp004.vercel.app)
+
 Aşağıdaki Vercel butonuna tıklayarak projenizi Vercel uygulamasına tek tuşla deploy edebilirsiniz.
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/eneserbap/react-portfolio)
